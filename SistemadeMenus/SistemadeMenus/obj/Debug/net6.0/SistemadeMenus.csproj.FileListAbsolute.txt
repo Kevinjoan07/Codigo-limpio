@@ -1,0 +1,15 @@
+C:\proyectodeAulaUdeM\SistemadeMenus\SistemadeMenus\obj\Debug\net6.0\SistemadeMenus.csproj.AssemblyReference.cache
+C:\proyectodeAulaUdeM\SistemadeMenus\SistemadeMenus\obj\Debug\net6.0\SistemadeMenus.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectodeAulaUdeM\SistemadeMenus\SistemadeMenus\obj\Debug\net6.0\SistemadeMenus.AssemblyInfoInputs.cache
+C:\proyectodeAulaUdeM\SistemadeMenus\SistemadeMenus\obj\Debug\net6.0\SistemadeMenus.AssemblyInfo.cs
+C:\proyectodeAulaUdeM\SistemadeMenus\SistemadeMenus\obj\Debug\net6.0\SistemadeMenus.csproj.CoreCompileInputs.cache
+C:\proyectodeAulaUdeM\SistemadeMenus\SistemadeMenus\bin\Debug\net6.0\SistemadeMenus.exe
+C:\proyectodeAulaUdeM\SistemadeMenus\SistemadeMenus\bin\Debug\net6.0\SistemadeMenus.deps.json
+C:\proyectodeAulaUdeM\SistemadeMenus\SistemadeMenus\bin\Debug\net6.0\SistemadeMenus.runtimeconfig.json
+C:\proyectodeAulaUdeM\SistemadeMenus\SistemadeMenus\bin\Debug\net6.0\SistemadeMenus.dll
+C:\proyectodeAulaUdeM\SistemadeMenus\SistemadeMenus\bin\Debug\net6.0\ref\SistemadeMenus.dll
+C:\proyectodeAulaUdeM\SistemadeMenus\SistemadeMenus\bin\Debug\net6.0\SistemadeMenus.pdb
+C:\proyectodeAulaUdeM\SistemadeMenus\SistemadeMenus\obj\Debug\net6.0\SistemadeMenus.dll
+C:\proyectodeAulaUdeM\SistemadeMenus\SistemadeMenus\obj\Debug\net6.0\ref\SistemadeMenus.dll
+C:\proyectodeAulaUdeM\SistemadeMenus\SistemadeMenus\obj\Debug\net6.0\SistemadeMenus.pdb
+C:\proyectodeAulaUdeM\SistemadeMenus\SistemadeMenus\obj\Debug\net6.0\SistemadeMenus.genruntimeconfig.cache
